@@ -11,6 +11,7 @@ The content within this repository is aimed at providing practical guides, tutor
 This repository is organized by blog post titles, each having its corresponding code, data, or Jupyter Notebook.
 
 - `From Grid to Goal: A Practical Guide to A* Search`
+- `Evolution in Code: Unraveling Genetic Algorithms with Python`
 
 ## Getting Started
 
