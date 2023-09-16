@@ -13,6 +13,7 @@ This repository is organized by blog post titles, each having its corresponding 
 - `From Grid to Goal: A Practical Guide to A* Search`
 - `Evolution in Code: Unraveling Genetic Algorithms with Python`
 - `Game-Changing Algorithms: SEDS in Python for Better Decision-Making`
+- `Unlocking the Power of Heuristic Functions in Minimax Algorithms: A Step-by-Step Guide to Creating Smarter Game AI with Enhanced Decision-Making`
 
 ## Getting Started
 
