@@ -14,6 +14,7 @@ This repository is organized by blog post titles, each having its corresponding 
 - `Evolution in Code: Unraveling Genetic Algorithms with Python`
 - `Game-Changing Algorithms: SEDS in Python for Better Decision-Making`
 - `Unlocking the Power of Heuristic Functions in Minimax Algorithms: A Step-by-Step Guide to Creating Smarter Game AI with Enhanced Decision-Making`
+- `Mastering Hyperparameter Optimization: Unlocking the Full Potential of Supervised Learning Models with Python`
 
 ## Getting Started
 
