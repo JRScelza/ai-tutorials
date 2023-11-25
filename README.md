@@ -15,6 +15,7 @@ This repository is organized by blog post titles, each having its corresponding 
 - `Game-Changing Algorithms: SEDS in Python for Better Decision-Making`
 - `Unlocking the Power of Heuristic Functions in Minimax Algorithms: A Step-by-Step Guide to Creating Smarter Game AI with Enhanced Decision-Making`
 - `Mastering Hyperparameter Optimization: Unlocking the Full Potential of Supervised Learning Models with Python`
+- `From Pixels to Patterns: Exploring CNN Architectures and Image Recognition using PyTorch`
 
 ## Getting Started
 
