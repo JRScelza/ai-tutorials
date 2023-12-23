@@ -16,6 +16,8 @@ This repository is organized by blog post titles, each having its corresponding 
 - `Unlocking the Power of Heuristic Functions in Minimax Algorithms: A Step-by-Step Guide to Creating Smarter Game AI with Enhanced Decision-Making`
 - `Mastering Hyperparameter Optimization: Unlocking the Full Potential of Supervised Learning Models with Python`
 - `From Pixels to Patterns: Exploring CNN Architectures and Image Recognition using PyTorch`
+- `Decoding AI Decisions: Interpreting MNIST CNN Models Using LIME`
+- `Recommender Systems with PyTorch. From Data to Decisions: A Journey Through AI-Powered Recommendations`
 
 ## Getting Started
 
