@@ -18,6 +18,7 @@ This repository is organized by blog post titles, each having its corresponding 
 - `From Pixels to Patterns: Exploring CNN Architectures and Image Recognition using PyTorch`
 - `Decoding AI Decisions: Interpreting MNIST CNN Models Using LIME`
 - `Recommender Systems with PyTorch. From Data to Decisions: A Journey Through AI-Powered Recommendations`
+- `Understanding GAN Training Strategies, Ethical Implications, and Building Your First GAN with PyTorch`
 
 ## Getting Started
 
